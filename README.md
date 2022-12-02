@@ -1,8 +1,8 @@
 <h1 align="center">Hi 👋, I'm Vijay Kathole</h1>
 <h3 align="center">JAVA Deverloper & Web Developer. -Full Stack Java Developer</h3>
-https://dribbble.com/shots/6139167-Avento-marketing/attachments/11278854?mode=media
+<img align="right" alt="Coding" width="400" src="https://user-images.githubusercontent.com/85567517/201535975-4f59b7ff-02ad-4013-b5bb-9180d262e53b.gif">
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=vijukathole98&label=Profile%20views&color=0e75b6&style=flat" alt="vijukathole98" /> </p>
+<p align="left" width="400"> <img src="https://komarev.com/ghpvc/?username=vijukathole98&label=Profile%20views&color=0e75b6&style=flat" alt="vijukathole98" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=vijukathole98" alt="vijukathole98" /></a> </p>
 
