@@ -1,10 +1,8 @@
 <h1 align="center">Hi 👋, I'm Vijay Kathole</h1>
 <h3 align="center">JAVA Deverloper & Web Developer. -Full Stack Java Developer</h3>
-<p align="right" >
-  <a href="https://chibird.com/">
-    <img alt="motivational penguin gif" src="https://c.tenor.com/VXaychl9j5gAAAAC/motivation-you-can-do-it.gif" width="20%" height=auto preserveAspectRatio="xMidYMid meet"/>
-  </a>
-</p>
+![aa](https://user-images.githubusercontent.com/85567517/205481065-1fd33ae5-e222-468f-b7ca-909f6b3d2f85.gif)
+
+
 <img align="right" alt="Coding" width="400" src="https://user-images.githubusercontent.com/85567517/201535975-4f59b7ff-02ad-4013-b5bb-9180d262e53b.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=vijukathole98&label=Profile%20views&color=0e75b6&style=flat" alt="vijukathole98" /> </p>
@@ -39,6 +37,7 @@
 ![HTML5](https://img.shields.io/badge/-HTML5-E44D26?style=for-the-badge&logo=html5&logoColor=ffffff)
 ![CSS3](https://img.shields.io/badge/-CSS3-2965f1?style=for-the-badge&logo=css3&logoColor=ffffff)
 ![Oracle](https://img.shields.io/badge/-Oracle%20SQL-232F3E?style=for-the-badge&logo=Oracle&logoColor=ffffff)
+ ![Javascript](https://img.shields.io/badge/-Javascript-232F3E?style=for-the-badge&logo=Javascript&logoColor=ffffff)
 ![Bootstrap](https://img.shields.io/badge/-Bootstrap-FFA000?style=for-the-badge&logo=Bootstrap&logoColor=ffffff)
 ![SQL Plus](http://img.shields.io/badge/sql%20plus-343A40?style=for-the-badge&logo=sql-plus&logoColor=ffffff)
 ![Linux](http://img.shields.io/badge/-Linux-0078D6?style=for-the-badge&logo=linux&logoColor=ffffff)
