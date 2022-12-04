@@ -1,9 +1,10 @@
 <h1 align="center">Hi 👋, I'm Vijay Kathole</h1>
-<h3 align="center">JAVA Deverloper & Web Developer. -Full Stack Java Developer</h3>
-![aa](https://user-images.githubusercontent.com/85567517/205481065-1fd33ae5-e222-468f-b7ca-909f6b3d2f85.gif)
+<h3 align="center" ><strong><i><big>JAVA Deverloper & Web Developer. -Full Stack Java Developer</big></i></strong>
+
+<img align="left" alt="Coding" width="270" src="https://user-images.githubusercontent.com/85567517/205481065-1fd33ae5-e222-468f-b7ca-909f6b3d2f85.gif"></h3>
 
 
-<img align="right" alt="Coding" width="400" src="https://user-images.githubusercontent.com/85567517/201535975-4f59b7ff-02ad-4013-b5bb-9180d262e53b.gif">
+<img align="right" alt="Coding" width="300" src="https://user-images.githubusercontent.com/85567517/201535975-4f59b7ff-02ad-4013-b5bb-9180d262e53b.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=vijukathole98&label=Profile%20views&color=0e75b6&style=flat" alt="vijukathole98" /> </p>
 
@@ -11,16 +12,16 @@
 
 - 🌱 I’m currently learning **Full Stack Java Devleoper**
 
-- 👨‍💻 All of my projects are available at [https://vijukathole98.github.io/my_site.github.com/](https://vijukathole98.github.io/my_site.github.com/)
+- 👨‍💻 All of my projects are available at [View here..](https://vijukathole98.github.io/my_site.github.com/)
 
 - 💬 Ask me about **react**
 
-- 📫 How to reach me **Katholeviju@gmail.com**
+- 📫 How to reach me [Mail..]**Katholeviju@gmail.com**
 
 - ⚡ Fun fact **Fun in My Blood..😂**
 
 <h3 align="left">Connect with me:</h3>
-<p align="center">
+
   <a href="https://www.linkedin.com/in/vijay-kathole-852089158/"> 
     <img alt="Connect on LinkedIn" src="https://img.shields.io/badge/-LinkedIn-0077B5?style=for-the-badge&logo=Linkedin&logoColor=white" />
   </a>
