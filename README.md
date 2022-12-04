@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Vijay Kathole</h1>
 <h3 align="center" ><strong><i><big>JAVA Deverloper & Web Developer. -Full Stack Java Developer</big></i></strong>
 
-<img align="left" alt="Coding" width="270" src="https://user-images.githubusercontent.com/85567517/205481065-1fd33ae5-e222-468f-b7ca-909f6b3d2f85.gif"></h3>
+<img align="left" alt="Coding" width="274" src="https://user-images.githubusercontent.com/85567517/205481065-1fd33ae5-e222-468f-b7ca-909f6b3d2f85.gif"></h3>
 
 
 <img align="right" alt="Coding" width="300" src="https://user-images.githubusercontent.com/85567517/201535975-4f59b7ff-02ad-4013-b5bb-9180d262e53b.gif">
