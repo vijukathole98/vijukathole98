@@ -12,7 +12,7 @@
 
 - 🌱 I’m currently learning **Full Stack Java Devleoper**
 
-- 👨‍💻 All of my projects are available at [View here..](https://vijukathole98.github.io/my_site.github.com/)
+- 👨‍💻 All of my projects are available at [View here..](https://github.com/vijukathole98?tab=repositories)
 
 - 💬 Ask me about **react**
 
