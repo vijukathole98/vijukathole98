@@ -8,7 +8,8 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=vijukathole98&label=Profile%20views&color=0e75b6&style=flat" alt="vijukathole98" /> </p>
 
-- 🔭 I’m currently working on [Java Project](https://github.com/vijukathole98/JavaProgramm)
+- 🔭 I’m currently working on [BigData Project- American Express company Through M3BI-A Zensar Company, Hyderabad].
+   [View here..](https://m3bi.zensar.com)
 
 - 🌱 I’m currently learning **Full Stack Java Devleoper-Software Engineer**
 
@@ -50,9 +51,19 @@
 ![Eclipse IDE](http://img.shields.io/badge/-Eclipse-0078D4?style=for-the-badge&logo=Eclipse-IDE&logoColor=ffffff)
 ![Microsoft Office](http://img.shields.io/badge/-Microsoft%20Office-DC3E15?style=for-the-badge&logo=microsoft-office&logoColor=ffffff)
 ![Windows](http://img.shields.io/badge/-Windows-0078D6?style=for-the-badge&logo=windows&logoColor=ffffff)
-![SQL Plus](http://img.shields.io/badge/Big%20Data-343A40?style=for-the-badge&logo=Big-Data&logoColor=ffffff)
+![SQL Plus](http://img.shields.io/badge/Big%20Data-343A40?style=for-the-badge&logo=big-data&logoColor=ffffff)
 ![Hadoop](http://img.shields.io/badge/-Hadoop-0078D6?style=for-the-badge&logo=hadoop&logoColor=ffffff)
- 
+![MongoDB](http://img.shields.io/badge/-MongoDB-0078D6?style=for-the-badge&logo=MongoDB&logoColor=ffffff)
+![React](http://img.shields.io/badge/-React-0078D6?style=for-the-badge&logo=react&logoColor=ffffff)
+![Spring Boot](http://img.shields.io/badge/Spring%20Boot-343A40?style=for-the-badge&logo=spring-boot&logoColor=ffffff)
+![Angular](http://img.shields.io/badge/-Angular-0078D6?style=for-the-badge&logo=angular&logoColor=ffffff)
+![Spark](http://img.shields.io/badge/-Spark-0078D6?style=for-the-badge&logo=spark&logoColor=ffffff)
+![MapReduce](http://img.shields.io/badge/Map%20Reduce-343A40?style=for-the-badge&logo=map-reduce&logoColor=ffffff)
+![Hive](http://img.shields.io/badge/-hive-0078D6?style=for-the-badge&logo=hive&logoColor=ffffff)
+![Swagger](http://img.shields.io/badge/-Swagger-0078D6?style=for-the-badge&logo=swagger&logoColor=ffffff)
+![PySpark](http://img.shields.io/badge/-PySpark-0078D6?style=for-the-badge&logo=pyspark&logoColor=ffffff)
+
+
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=vijukathole98&show_icons=true&locale=en" alt="vijukathole98" /></p>
 
