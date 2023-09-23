@@ -50,8 +50,8 @@
 ![Eclipse IDE](http://img.shields.io/badge/-Eclipse-0078D4?style=for-the-badge&logo=Eclipse-IDE&logoColor=ffffff)
 ![Microsoft Office](http://img.shields.io/badge/-Microsoft%20Office-DC3E15?style=for-the-badge&logo=microsoft-office&logoColor=ffffff)
 ![Windows](http://img.shields.io/badge/-Windows-0078D6?style=for-the-badge&logo=windows&logoColor=ffffff)
-[![BigData](https://skillicons.dev/icons?i=Bigdata)](https://skillicons.dev)
-[![github](https://user-images.githubusercontent.com/25181517/192108890-200809d1-439c-4e23-90d3-b090cf9a4eea.png)
+![SQL Plus](http://img.shields.io/badge/Big%20Data-343A40?style=for-the-badge&logo=Big-Data&logoColor=ffffff)
+![Hadoop](http://img.shields.io/badge/Hadoop%20-343A40?style=for-the-badge&logo=Hadoop&logoColor=ffffff)
  
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=vijukathole98&show_icons=true&locale=en" alt="vijukathole98" /></p>
