@@ -50,6 +50,7 @@
 ![Eclipse IDE](http://img.shields.io/badge/-Eclipse-0078D4?style=for-the-badge&logo=Eclipse-IDE&logoColor=ffffff)
 ![Microsoft Office](http://img.shields.io/badge/-Microsoft%20Office-DC3E15?style=for-the-badge&logo=microsoft-office&logoColor=ffffff)
 ![Windows](http://img.shields.io/badge/-Windows-0078D6?style=for-the-badge&logo=windows&logoColor=ffffff)
+[![BigData](https://skillicons.dev/icons?i=Bigdata)](https://skillicons.dev)
  
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=vijukathole98&show_icons=true&locale=en" alt="vijukathole98" /></p>
