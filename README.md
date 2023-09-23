@@ -10,13 +10,13 @@
 
 - 🔭 I’m currently working on [Java Project](https://github.com/vijukathole98/JavaProgramm)
 
-- 🌱 I’m currently learning **Full Stack Java Devleoper**
+- 🌱 I’m currently learning **Full Stack Java Devleoper-Software Engineer**
 
 - 👨‍💻 All of my projects are available at [View here..](https://github.com/vijukathole98?tab=repositories)
 
-- 💬 Ask me about **react**
+- 💬 Ask me about **BigData, Java development, Hadoop,Linux**
 
-- 📫 How to reach me [Mail..]**Katholeviju@gmail.com**
+- 📫 How to reach me [Mail..]**vijukathole98@gmail.com**
 
 - ⚡ Fun fact **Fun in My Blood..😂**
 
@@ -51,6 +51,7 @@
 ![Microsoft Office](http://img.shields.io/badge/-Microsoft%20Office-DC3E15?style=for-the-badge&logo=microsoft-office&logoColor=ffffff)
 ![Windows](http://img.shields.io/badge/-Windows-0078D6?style=for-the-badge&logo=windows&logoColor=ffffff)
 [![BigData](https://skillicons.dev/icons?i=Bigdata)](https://skillicons.dev)
+[![github](https://user-images.githubusercontent.com/25181517/192108890-200809d1-439c-4e23-90d3-b090cf9a4eea.png)
  
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=vijukathole98&show_icons=true&locale=en" alt="vijukathole98" /></p>
