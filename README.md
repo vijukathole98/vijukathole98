@@ -62,6 +62,8 @@
 ![Hive](http://img.shields.io/badge/-hive-0078D6?style=for-the-badge&logo=hive&logoColor=ffffff)
 ![Swagger](http://img.shields.io/badge/-Swagger-0078D6?style=for-the-badge&logo=swagger&logoColor=ffffff)
 ![PySpark](http://img.shields.io/badge/-PySpark-0078D6?style=for-the-badge&logo=pyspark&logoColor=ffffff)
+![Service Now](http://img.shields.io/badge/Service%20Now-343A40?style=for-the-badge&logo=service-now&logoColor=ffffff)
+![ITSM& ITSC](http://img.shields.io/badge/-Itsm-0078D6?style=for-the-badge&logo=itsm&logoColor=ffffff)
 
 
 
