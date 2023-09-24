@@ -63,8 +63,8 @@
 ![Swagger](http://img.shields.io/badge/-Swagger-0078D6?style=for-the-badge&logo=swagger&logoColor=ffffff)
 ![PySpark](http://img.shields.io/badge/-PySpark-0078D6?style=for-the-badge&logo=pyspark&logoColor=ffffff)
 ![Service Now](http://img.shields.io/badge/Service%20Now-343A40?style=for-the-badge&logo=service-now&logoColor=ffffff)
-![ITSM& ITSC](http://img.shields.io/badge/-Itsm-0078D6?style=for-the-badge&logo=itsm&logoColor=ffffff)
-
+![ITSM](http://img.shields.io/badge/-Itsm-0078D6?style=for-the-badge&logo=itsm&logoColor=ffffff)
+![ITSC](http://img.shields.io/badge/-ItsC-0078D6?style=for-the-badge&logo=itsC&logoColor=ffffff)
 
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=vijukathole98&show_icons=true&locale=en" alt="vijukathole98" /></p>
