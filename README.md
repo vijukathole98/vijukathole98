@@ -42,6 +42,7 @@
  ![Javascript](https://img.shields.io/badge/-Javascript-232F3E?style=for-the-badge&logo=Javascript&logoColor=ffffff)
 ![Bootstrap](https://img.shields.io/badge/-Bootstrap-FFA000?style=for-the-badge&logo=Bootstrap&logoColor=ffffff)
 ![SQL Plus](http://img.shields.io/badge/sql%20plus-343A40?style=for-the-badge&logo=sql-plus&logoColor=ffffff)
+![Hibernet](http://img.shields.io/badge/-hibernet-0078D6?style=for-the-badge&logo=hibernetlogoColor=ffffff)
 ![Linux](http://img.shields.io/badge/-Linux-0078D6?style=for-the-badge&logo=linux&logoColor=ffffff)
 ![Visual Studio](https://img.shields.io/badge/visual-studio-2965f1?style=for-the-badge&logo=visual-studio&logoColor=ffffff)
 ![Git](https://img.shields.io/badge/-Git-%23F05032?style=for-the-badge&logo=git&logoColor=ffffff)
